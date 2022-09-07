@@ -1,4 +1,5 @@
 
 a=35
 b=2
-print(a+b)
+c-25
+print(a+b+c)
