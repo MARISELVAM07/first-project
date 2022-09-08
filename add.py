@@ -1,7 +1,7 @@
 
-a=35
+a=1
 b=2
-c=25
+c=4
 print(a+b+c)
 d=(a+b+c)
 print(d)
